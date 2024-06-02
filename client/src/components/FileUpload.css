@@ -1,0 +1,64 @@
+.top form {
+  margin: 40px;
+  display: flex;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.choose {
+  background-color: initial;
+  height: 40px;
+  background-image: linear-gradient(-180deg, #eeeeee, #f8f8f8);
+  color: #000000;
+  padding: 5px 10px;
+  margin-right: 10px;
+  padding-bottom: 10px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  border: #00000073 solid 1px;
+}
+.choose:hover {
+  box-shadow: rgba(0, 0, 0, 0.341) 0 3px 8px;
+}
+.choose--lable {
+  font-weight: 500;
+  margin-left: 10px;
+}
+.textArea {
+  color: rgb(0, 0, 0);
+  margin: 20px;
+}
+
+.upload {
+  height: 40px;
+  border: #00000073 solid 1px;
+  background-image: linear-gradient(-180deg, #eeeeee, #f8f8f8);
+  padding: 5px 10px;
+  margin-left: 10px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+}
+.upload p {
+  margin-left: 10px;
+  color: #000000;
+}
+
+.upload:hover {
+  border: 1px solid #13aa52;
+  background-image: linear-gradient(-180deg, #48cf5c, #24803d);
+  color: #ffffff;
+  padding: 5px 10px;
+}
+
+.upload:disabled,
+.upload[disabled] {
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}

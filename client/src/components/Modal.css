@@ -1,0 +1,95 @@
+/* .modalBackground {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.modalContainer {
+  width: 700px;
+  height: 300px;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.189);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 25px;
+  display: inline-block;
+  text-align: center;
+}
+
+.title {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.title h2 {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.titleCloseBtn {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.titleCloseBtn button {
+  background-color: transparent;
+  border: none;
+  font-size: 1px;
+  cursor: pointer;
+}
+
+.modalContainer .inputbody {
+  flex: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  font-size: 1.1rem;
+  margin-left: 70px;
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+.modalContainer .footer {
+  flex: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modalContainer .footer button {
+  width: 100px;
+  height: 35px;
+  margin: 0px 10px;
+  border: none;
+  background-color: rgb(9, 142, 232);
+  color: white;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#cancelBtn {
+  background-color: crimson;
+}
+.shareaddress {
+  display: block;
+  margin: auto;
+  height: 30px;
+  width: 100%;
+  text-align: center;
+}
+
+input[type="text"]:focus {
+  background-color: lightblue;
+}
+
+#selectNumber {
+  border: 1px solid black;
+  margin-bottom: 20px;
+}

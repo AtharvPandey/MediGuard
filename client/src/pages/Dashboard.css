@@ -1,0 +1,88 @@
+/* .mainDashboard {
+  display: flex;
+}
+
+.sidebar {
+  width: 20%;
+
+  background-color: #212529;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+}
+
+.sidebar-logo {
+  height: 70px;
+  width: 90%;
+  text-align: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.sidebar h1 {
+  color: white;
+  font-size: 1.8rem;
+  margin-top: 15px;
+}
+
+.dashboard {
+  width: 80%;
+  background-color: #90929568;
+  height: 100%;
+  position: fixed;
+  z-index: 1;
+  overflow-x: hidden;
+  width: 80%;
+  height: 100%;
+  right: 0;
+  top: 0;
+}
+
+.backtohome {
+  
+
+} */
+.dashboard {
+  display: flex;
+  gap: 30px;
+}
+
+.dashboard--content {
+  background: #fff;
+  flex: 1;
+  margin-top: 30px;
+  border-radius: 20px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.share {
+  background-color: initial;
+  height: 150px;
+  width: 150px;
+  background-image: linear-gradient(-180deg, #eeeeee, #f8f8f8);
+  color: #000000;
+  padding: 5px 10px;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding-bottom: 10px;
+  border-radius: 3px;
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  border: #00000073 solid 1px;
+}
+.share .shareicon {
+  height: 40px;
+  width: 40px;
+  padding: 5px;
+}

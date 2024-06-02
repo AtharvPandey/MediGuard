@@ -1,0 +1,38 @@
+
+.content--header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header--title {
+  color: #526d82;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.header--activity {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.search-box {
+  background: #dde6ed;
+  padding: 8px 10px;
+  height: 40px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+.search-box input {
+  border: none;
+  outline: none;
+  background: transparent;
+  padding: 5px;
+  outline: none;
+}
+
+.AccountAddress {
+  color: rgb(0, 0, 0);
+  margin-right: 10px;
+}
