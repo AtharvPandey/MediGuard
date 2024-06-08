@@ -1,15 +1,15 @@
 # MediGuard: Secure Medical Image Management System
 
-# MediGuard Home Page
+#MediGuard Home Page
 ![Home Page](https://drive.google.com/uc?export=download&id=1gCH3lAav8rUY-84fWFAmUTVqdZ6NatXO)
 
-# Dashboard File Uploading + Account Integration
+#Dashboard File Uploading + Account Integration
 ![File Upload](https://drive.google.com/file/d/1ogvCBSLiXCV-x9MgO9rFo_MmTwCDyrz0/view?usp=sharing)
 
-# Dashboard View Files
+#Dashboard View Files
 ![View Upload Images](https://drive.google.com/file/d/1GhhFDUPwKJGaCMh-VEuejRbxYD87eO6Q/view?usp=sharing)
 
-# Dashboard Share Files 
+#Dashboard Share Files 
 ![Allow and DisAllow Function](https://drive.google.com/file/d/1l3xRhaeUFVXwNCa6L81YuA-Gg2-O2gJA/view?usp=sharing)
 
 
