@@ -1,6 +1,8 @@
 # MediGuard: Secure Medical Image Management System
 
-![MediGuard Home Page](https://drive.google.com/file/d/1gCH3lAav8rUY-84fWFAmUTVqdZ6NatXO/view?usp=drive_link) 
+#MediGuard Home Page
+![Home Page](https://drive.google.com/uc?export=download&id=1gCH3lAav8rUY-84fWFAmUTVqdZ6NatXO)
+
 
 ## Overview
 
