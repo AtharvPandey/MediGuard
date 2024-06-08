@@ -4,13 +4,14 @@
 ![Home Page](https://drive.google.com/uc?export=download&id=1gCH3lAav8rUY-84fWFAmUTVqdZ6NatXO)
 
 #Dashboard File Uploading + Account Integration
-![File Upload](https://drive.google.com/file/d/1ogvCBSLiXCV-x9MgO9rFo_MmTwCDyrz0/view?usp=sharing)
+![File Upload](https://drive.google.com/uc?export=download&id=1ogvCBSLiXCV-x9MgO9rFo_MmTwCDyrz0)
 
 #Dashboard View Files
-![View Upload Images](https://drive.google.com/file/d/1GhhFDUPwKJGaCMh-VEuejRbxYD87eO6Q/view?usp=sharing)
+![View Upload Images](https://drive.google.com/uc?export=download&id=1GhhFDUPwKJGaCMh-VEuejRbxYD87eO6Q)
 
 #Dashboard Share Files 
-![Allow and DisAllow Function](https://drive.google.com/file/d/1l3xRhaeUFVXwNCa6L81YuA-Gg2-O2gJA/view?usp=sharing)
+![Allow and DisAllow Function](https://drive.google.com/uc?export=download&id=1l3xRhaeUFVXwNCa6L81YuA-Gg2-O2gJA)
+
 
 
 
