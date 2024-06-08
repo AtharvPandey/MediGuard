@@ -1,6 +1,6 @@
 # MediGuard: Secure Medical Image Management System
 
-![MediGuard Banner](banner.png) <!-- Add a banner image for visual appeal -->
+![MediGuard Home Page](https://drive.google.com/file/d/1gCH3lAav8rUY-84fWFAmUTVqdZ6NatXO/view?usp=drive_link) 
 
 ## Overview
 
