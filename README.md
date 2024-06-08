@@ -1,20 +1,5 @@
 # MediGuard: Secure Medical Image Management System
 
-#MediGuard Home Page
-![Home Page](https://drive.google.com/uc?export=download&id=1gCH3lAav8rUY-84fWFAmUTVqdZ6NatXO)
-
-#Dashboard File Uploading + Account Integration
-![File Upload](https://drive.google.com/uc?export=download&id=1ogvCBSLiXCV-x9MgO9rFo_MmTwCDyrz0)
-
-#Dashboard View Files
-![View Upload Images](https://drive.google.com/uc?export=download&id=1GhhFDUPwKJGaCMh-VEuejRbxYD87eO6Q)
-
-#Dashboard Share Files 
-![Allow and DisAllow Function](https://drive.google.com/uc?export=download&id=1l3xRhaeUFVXwNCa6L81YuA-Gg2-O2gJA)
-
-
-
-
 ## Overview
 
 **MediGuard** is an innovative and secure medical image management system that leverages cutting-edge technologies to ensure the integrity, privacy, and efficient sharing of healthcare data. By integrating IPFS for decentralized storage and Solidity smart contracts on the blockchain, MediGuard provides a robust solution for managing medical records and images.
@@ -51,6 +36,23 @@ The primary goal of MediGuard is to revolutionize the way medical records and im
 - **File Storage**: IPFS, Pinata
 - **Wallet Integration**: MetaMask
 - **Others**: Ethers.js, Node.js (if applicable)
+
+## Images 
+
+#MediGuard Home Page
+![Home Page](https://drive.google.com/uc?export=download&id=1gCH3lAav8rUY-84fWFAmUTVqdZ6NatXO)
+
+#Dashboard File Uploading + Account Integration
+![File Upload](https://drive.google.com/uc?export=download&id=1ogvCBSLiXCV-x9MgO9rFo_MmTwCDyrz0)
+
+#Dashboard View Files
+![View Upload Images](https://drive.google.com/uc?export=download&id=1GhhFDUPwKJGaCMh-VEuejRbxYD87eO6Q)
+
+#Dashboard Share Files 
+![Allow and DisAllow Function](https://drive.google.com/uc?export=download&id=1l3xRhaeUFVXwNCa6L81YuA-Gg2-O2gJA)
+
+
+
 
 ## Setup and Installation
 
