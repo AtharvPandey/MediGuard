@@ -53,7 +53,7 @@ The primary goal of MediGuard is to revolutionize the way medical records and im
 
 ## Components Overview
 
-- **ShareFile**: Handles file sharing functionality, allowing users to share access to files with others.
+- **ShareFile**: Handles file-sharing functionality, allowing users to share access to files with others.
 - **UploadFile**: Manages the file upload process, ensuring secure storage on the blockchain and IPFS.
 - **ViewFile**: Provides an interface for viewing uploaded files, with a focus on security and auditability.
 - **Sidebar**: Navigation sidebar for easy access to different sections of the application.
